@@ -1,1 +1,1 @@
-# binding_energy_kinetics
+# E-Syt membrane tethering simulation
